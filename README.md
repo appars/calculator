@@ -6,8 +6,8 @@ Application runs in a docker container on any platform supported by Docker. The 
 
 Checkout the source code:
 ```
-$ git clone git@git.toptal.com:Luis-Filipe/felix-enescu.git
-$ cd felix-enescu
+$ git clone git@github.com:appars/calculator.git
+$ cd calculator
 ```
 
 Build the application container:
