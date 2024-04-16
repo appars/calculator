@@ -1,6 +1,6 @@
 # Simple scientific calculator
 
-## How to run the application
+## How to run the application?
 
 Application runs in a docker container on any platform supported by Docker. The following commands are for installation on a Linux machine.
 
